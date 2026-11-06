@@ -7,8 +7,8 @@
 - Mes faiblesses ou points à améliorer : ...
     - Exemple : ...
 - Seul(e) ou en équipe : En équipe
-    - Pourquoi et exemple : ...
-- Plutôt technique ou créatif : ...
+    - Pourquoi et exemple : J'aime travailler en équipe car je trouve que cela rend la tâche beaucoup plus facile et l'échange d'idées avec des partenaires est une bonne façon de faire un beau projet.
+- Plutôt technique ou créatif : Je suis plutôt créatif car moi j'aime beaucoup imaginer des nouvelles choses et sortir de l'ordinaire. Au lieu de suivre une procédure ou un plan étape par étape j'aime bien faire les choses par moi-même.
 
 ## Exploration des domaines
 
@@ -29,14 +29,14 @@
 - Expérience : J'ai utilisé des logiciels de création de jeu pour un projet que j'ai fait à l'école il y a au moins 2 mois.
 - Logiciels et outils : Unreal Engine 5
 - Pourquoi il m'intéresse : Ce domaine m'interesse car moi j'aime beaucoup faire des jeux vidéo avec les passions que j'ai. J'aime beaucoups les voitures, la course et des beaux paysages donc j'aimerais faire des jeux de style Forza Horizon.
-- Travailler dans ce domaine : ...
+- Travailler dans ce domaine : Oui, j'aimerais beaucoup pouvoir developper des choses et faire fonctionner des objets dans les jeux.
 
 ### Domaine 2 : Modélisation 3D
 
 - Expérience : À la maison, je fais des modèles 3D des voitures, de trains du métro de Montréal et des autobus de ville (J'aime beaucoup le transport en commun) Je fais des modèles pour m'amuser ou pour d'autre personnes.
 - Logiciels et outils : Blender
 - Pourquoi il m'intéresse : J'aime beaucoup faire de la modélisation 3D parce que j'aime comment on peut être très creatif et faire des modèles super réaliste à l'aide de blueprints. C'est le fun aussi de pouvoir les imprimer à la fin.
-- Travailler dans ce domaine : ...
+- Travailler dans ce domaine : Oui, la modélisation 3D c'est le domaine multimédia que j'aime beaucoup et que je trouve qui est le plus divertissant.
 
 ## Les caractéristiques de mon domaine préféré
 
@@ -54,9 +54,9 @@
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : Ma plus grande force est que je fais exprès de faire tout comme il faut avec le moins d'erreurs, mais ma faiblesse est que je passe trop de temps a
+- Mon profil en une phrase : Je suis un étudiant qui met tous les efforts pour être un professionnel dans les domaines multimédia. J'apprends toujours encore plus pour pouvoir agrandir mes connaissances.
+- Ce qui m'a surpris : Je suis quand même très bon en modélisation 3D. Plein de gens sont surpris des modèles que j'ai fait à présent et qu'il disent que je devrais les vendres pour de l'argent.
+- Ma force principale et la faiblesse à travailler : Ma plus grande force est que je fais exprès de faire tout comme il faut avec le moins d'erreurs, mais ma faiblesse est que je passe trop de temps a perfectionner mes choses.
 - Mon action d'ici la fin de la session : Commencer un petit projet en lien avec la modélisation 3D, pouvoir le mettre dans mon portfolio et dans ma character sheet.
 
 ## Ma capsule
