@@ -2,10 +2,10 @@
 
 ## Découverte de soi
 
-- Mes forces : ...
-    - Exemple : ...
-- Mes faiblesses ou points à améliorer : ...
-    - Exemple : ...
+- Mes forces : Être passioné des choses, j'aime ce que je fais donc je mets mes efforts dessus. Je suis très organisé.
+    - Exemple : Lors des projets en 3D, je prépare toujours mon espace de travail pour qu'il soit adéquat. Quand je commence à modeliser, je ne m'arrête pas et je met même de côte les autres travaux pour me concentrer.
+- Mes faiblesses ou points à améliorer : Je suis trop perfectionniste
+    - Exemple : Des fois, je passe trop de temps à essayer de faire quelque chose comme il faut. Sans me rendre compte que je perds beaucoup de temps à faire cette chose-là au lieu de faire d'autre chose pour m'avancer comme il faut.
 - Seul(e) ou en équipe : En équipe
     - Pourquoi et exemple : J'aime travailler en équipe car je trouve que cela rend la tâche beaucoup plus facile et l'échange d'idées avec des partenaires est une bonne façon de faire un beau projet.
 - Plutôt technique ou créatif : Je suis plutôt créatif car moi j'aime beaucoup imaginer des nouvelles choses et sortir de l'ordinaire. Au lieu de suivre une procédure ou un plan étape par étape j'aime bien faire les choses par moi-même.
